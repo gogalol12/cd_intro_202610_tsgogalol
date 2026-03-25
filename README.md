@@ -2,4 +2,7 @@
 EL primer repositorio de no se cuantos, de introducción a la ciencia de datos
 # Título principal (H1)
 <img width="1025" height="546" alt="Captura de pantalla 2026-03-24 101312" src="https://github.com/user-attachments/assets/8e52373d-9530-405a-93d0-50ec49c04ca1" />
-![Logo] (https://m.media-amazon.com/images/I/61fxbHeRxrL._AC_UF1000,1000_QL80_.jpg)
+
+<p align="center">
+<img width="667" height="1000" alt="61fxbHeRxrL _AC_UF1000,1000_QL80_" src="https://github.com/user-attachments/assets/03e48825-c8d6-4c0f-b927-5140b74c556a" />
+</p>
