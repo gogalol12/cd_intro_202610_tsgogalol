@@ -1,7 +1,10 @@
-# cd_intro_202610_tsgogalol
-EL primer repositorio de no se cuantos, de introducción a la ciencia de datos
-# Título principal (H1)
-<img width="1025" height="546" alt="Captura de pantalla 2026-03-24 101312" src="https://github.com/user-attachments/assets/8e52373d-9530-405a-93d0-50ec49c04ca1" />
+# SANABRIA PUSHED ME
+Bro is larp  and fatty btw
+# Introduction to larp pill
+
+<p align="center">
+<img width="272" height="272" alt="648454012_1728152054849175_8031358309091159955_n" src="https://github.com/user-attachments/assets/4358d0c1-b5d5-4156-93fc-fa104c1e3d25" />
+</p>
 
 <p align="center">
 <img width="667" height="1000" alt="61fxbHeRxrL _AC_UF1000,1000_QL80_" src="https://github.com/user-attachments/assets/03e48825-c8d6-4c0f-b927-5140b74c556a" />
